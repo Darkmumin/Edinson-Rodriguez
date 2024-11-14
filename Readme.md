@@ -9,3 +9,6 @@ Se agrega el ejercicio 10 de Javascript
 
 # Se crea primera pagina en Angula
 Se crea pagina en Angular, ejercicio hecho en clase
+
+# Se realiza el book list
+Se integra fron con back y se listan los libros
