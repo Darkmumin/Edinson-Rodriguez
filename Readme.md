@@ -12,3 +12,6 @@ Se crea pagina en Angular, ejercicio hecho en clase
 
 # Se realiza el book list
 Se integra fron con back y se listan los libros
+
+# Se crea el branch de bookdetail
+Se empezara con el despliege de los detalles de los libros
