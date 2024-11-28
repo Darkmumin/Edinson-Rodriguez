@@ -15,7 +15,6 @@ import { BookDetailComponent } from './book-detail/book-detail.component';
   ],
   exports:[
     BookListComponent,
-    BookDetailComponent
   ],
 })
 export class BookModule { }
